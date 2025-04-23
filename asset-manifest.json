@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/vacation-bidding-app/static/css/main.7a536152.css",
-    "main.js": "/vacation-bidding-app/static/js/main.17839bba.js",
+    "main.js": "/vacation-bidding-app/static/js/main.c753bdc5.js",
     "static/js/453.ed3810f9.chunk.js": "/vacation-bidding-app/static/js/453.ed3810f9.chunk.js",
     "index.html": "/vacation-bidding-app/index.html",
     "main.7a536152.css.map": "/vacation-bidding-app/static/css/main.7a536152.css.map",
-    "main.17839bba.js.map": "/vacation-bidding-app/static/js/main.17839bba.js.map",
+    "main.c753bdc5.js.map": "/vacation-bidding-app/static/js/main.c753bdc5.js.map",
     "453.ed3810f9.chunk.js.map": "/vacation-bidding-app/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a536152.css",
-    "static/js/main.17839bba.js"
+    "static/js/main.c753bdc5.js"
   ]
 }
