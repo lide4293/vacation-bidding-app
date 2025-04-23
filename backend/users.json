@@ -1,0 +1,65 @@
+[
+  {
+    "username": "FranklinRoosevelt",
+    "name": "Franklin Roosevelt",
+    "passwordHash": "$2b$10$GY56PCkwpbgd8pUEJDln/e6h7hKHQTdOluU4puicVVKe6cKHZ1QAS",
+    "station": "BCO",
+    "seniority": "3"
+  },
+  {
+    "username": "LinleyDenslow",
+    "name": "Linley Denslow",
+    "passwordHash": "$2b$10$xx1PHRukwDKFlrL03jJMTeneIaKwLq9H.PQLyOKe0Ot6e.SUZakQi",
+    "station": "DFW",
+    "seniority": "1"
+  },
+  {
+    "username": "DavidDenslow",
+    "name": "David Denslow",
+    "passwordHash": "$2b$10$WZzUH.THMh5uHVSTmRxfqONEF4xTH099.4jXSFBN4AlW1KiV9nAqS",
+    "station": "LAX",
+    "seniority": "2"
+  },
+  {
+    "username": "ThomasDenslow",
+    "name": "Thomas Denslow",
+    "passwordHash": "$2b$10$SQWulMSGlkC07ZSzPuHprulHtmAxwSMBGurxoxuXZzxsGg2JAwO/G",
+    "station": "DFW",
+    "seniority": "2"
+  },
+  {
+    "username": "LoganDenslow",
+    "name": "Logan Denslow",
+    "passwordHash": "$2b$10$z.NblLxSZYAoZjSEgJYk5.NJAWU/UfpsnftLzl8l4KDPhqncxH8K6",
+    "station": "DFW",
+    "seniority": "2"
+  },
+  {
+    "username": "IanDenslow",
+    "name": "Ian Denslow",
+    "station": "DFW",
+    "seniority": "3",
+    "passwordHash": "$2b$10$yfhRjag.hgdvx65A8CEC2.4H2I8md2fjWiDKAPVU/9vxwir0ruC/q"
+  },
+  {
+    "username": "LadonnaDenslow",
+    "name": "Ladonna Denslow",
+    "station": "SEA",
+    "seniority": "2",
+    "passwordHash": "$2b$10$JURalK8tgEu7/Z01R2zZZe/yyomnE.CocZ.1JTu08pNzmzPISQae."
+  },
+  {
+    "username": "BillDenslow",
+    "name": "Bill Denslow",
+    "station": "ATL",
+    "seniority": "1",
+    "passwordHash": "$2b$10$2YrBsJAN/l/vkYJeUpQanuWoYmdUe5d.VSvtiPDkgQ55IgxQ.0HX2"
+  },
+  {
+    "username": "ZariaHyman",
+    "name": "Zaria Hyman",
+    "station": "DFW",
+    "seniority": "1",
+    "passwordHash": "$2b$10$/Sv4EPkRkMUpMQbjigDNOuGtZyixzj2viueXgLr87oPVuISO87yY."
+  }
+]
